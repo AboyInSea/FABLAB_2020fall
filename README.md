@@ -9,9 +9,13 @@ Hello，I'm **ZHANG Wei**, a junior undergraduate student from [ShanghaiTech Uni
    2. Insert a sheet of material.
    3. Focus the laser head automatically.
    4. Set the properies of laser cutter in PC and send the file to laser cutter. In my experience, I set the power, speed, PPI be 70%, 3%, 1000, respectively.
-I cut a 5 mm by 5 mm square, and then I get a about 4.7 mm by 4.7 mm suare. Therefore, \(kerf = (5 mm - 4.7 mm)/2 = 0.15 mm \)
+I cut a 5 mm by 5 mm square, and then I get a about 4.7 mm by 4.7 mm suare. Therefore, kerf = (5 mm - 4.7 mm)/2 = 0.15 mm
 3. Modify my module and cut them.
 4. Assemble them together.
 
-   
+![image](https://github.com/AboyInSea/FABLAB_2020spring/blob/master/hw1/1.JPG)
+![image](https://github.com/AboyInSea/FABLAB_2020spring/blob/master/hw1/2.JPG)
+![image](https://github.com/AboyInSea/FABLAB_2020spring/blob/master/hw1/3.JPG)
 
+
+### WEEK 2: 3D Print
