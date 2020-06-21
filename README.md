@@ -33,7 +33,7 @@ I cut a 5 mm by 5 mm square, and then I get a about 4.7 mm by 4.7 mm suare. Ther
    ![Print](hw2/4.JPG)
    
 Due to the precision, the words (Power of Zhang) can't be printed clearly.
-![imagess](hw2/4.JPG)
+![imagess](hw2/5.JPG)
 Here is the final result: 
 ![result](hw2/6.JPG)
    
