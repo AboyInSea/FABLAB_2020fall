@@ -12,7 +12,7 @@ Hello，I'm **ZHANG Wei**, a junior undergraduate student from [ShanghaiTech Uni
    4. Set the properies of laser cutter in PC and send the file to laser cutter. In my experience, I set the power, speed, PPI be 70%, 3%, 1000, respectively.
 I cut a 5 mm by 5 mm square, and then I get a about 4.7 mm by 4.7 mm suare. Therefore, kerf = (5 mm - 4.7 mm)/2 = 0.15 mm
 3. Modify my module and cut them.
-    ![image1](hw1/1.JPG)
+   ![image1](hw1/1.JPG)
 4. Assemble them together.
    ![image2](hw1/2.JPG)
    ![image3](hw1/3.JPG)
@@ -32,12 +32,18 @@ I cut a 5 mm by 5 mm square, and then I get a about 4.7 mm by 4.7 mm suare. Ther
 3. Printing. ( the materrial is ABS)
    ![Print](hw2/4.JPG)
    
-Due to the precision, the words can't be printed clearly.
+Due to the precision, the words (Power of Zhang) can't be printed clearly.
 ![imagess](hw2/4.JPG)
-Here is the final result: ![result](hw2/6.JPG)
+Here is the final result: 
+![result](hw2/6.JPG)
    
    
-## WEEK 3: 3D Print: Finger Tiger   
+## WEEK 3: Arduino: Luminance Meter   
+ Calculate the light and display it by control the servo precisely.
+ Also, you can see the specific value of brightness on the lcd screen.
+ The range is 0 to 180. The greater the value, the lower the brightness.
+ And you can push the button to launch another function.
+ If it's dark, then the LED is on and the buzzer rings periodically.
    
    
    
