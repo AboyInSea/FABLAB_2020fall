@@ -13,9 +13,9 @@ I cut a 5 mm by 5 mm square, and then I get a about 4.7 mm by 4.7 mm suare. Ther
 3. Modify my module and cut them.
 4. Assemble them together.
 
-![image](https://github.com/AboyInSea/FABLAB_2020spring/blob/master/hw1/1.JPG)
-![image](https://github.com/AboyInSea/FABLAB_2020spring/blob/master/hw1/2.JPG)
-![image](https://github.com/AboyInSea/FABLAB_2020spring/blob/master/hw1/3.JPG)
+![image1](https://github.com/AboyInSea/FABLAB_2020spring/blob/master/hw1/1.JPG)
+![image2](https://github.com/AboyInSea/FABLAB_2020spring/blob/master/hw1/2.JPG)
+![image3](https://github.com/AboyInSea/FABLAB_2020spring/blob/master/hw1/3.JPG)
 
 
 ### WEEK 2: 3D Print
