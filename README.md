@@ -45,12 +45,22 @@ Here is the final result:
  And you can push the button to launch another function.
  If it's dark, then the LED is on and the buzzer rings periodically.
  ![result](hw3/1.JPG)
+ 
+ In this assignment, at the beginning, I can't find the address of my 1602lcd(driver board is PCF8574T). Even I used [scanner](hw3/scanner.ino), it showed that No I2C devices found. It drove me crazy and just killed meI a nice weekend. But I changed another lcd screen with same driver board PCF8574T, I sucessfully found the correct address is 0x27. Until now I still  can not figure out the reason.      
+ 
    
    
 ## WEEK 4: Build A 2 Axis Machine With An Actuator
 
 
-   
+
+
+## WEEK 5: 3D Scanning 
+1. Scan myself and get an obj file.
+2. Use MeshMixer to repair the mesh, and add a hat for myself.
+   ![images](hw5/1.png)
+Here is the final result, add the hat will cost too much material and time, therefore, I remove it.
+   ![images](hw5/2.JPG)
    
    
    
