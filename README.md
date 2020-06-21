@@ -44,8 +44,12 @@ Here is the final result:
  The range is 0 to 180. The greater the value, the lower the brightness.
  And you can push the button to launch another function.
  If it's dark, then the LED is on and the buzzer rings periodically.
+ ![result](hw3/1.JPG)
    
    
+## WEEK 4: Build A 2 Axis Machine With An Actuator
+
+
    
    
    
