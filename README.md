@@ -44,7 +44,7 @@ Here is the final result:
  The range is 0 to 180. The greater the value, the lower the brightness.
  And you can push the button to launch another function.
  If it's dark, then the LED is on and the buzzer rings periodically.
- ![result](hw3/1.JPG)
+ ![resultss](hw3/1.JPG)
  
  In this assignment, at the beginning, I can't find the address of my 1602lcd(driver board is PCF8574T). Even I used [scanner](hw3/scanner.ino), it showed that No I2C devices found. It drove me crazy and just killed meI a nice weekend. But I changed another lcd screen with same driver board PCF8574T, I sucessfully found the correct address is 0x27. Until now I still  can not figure out the reason.      
  
