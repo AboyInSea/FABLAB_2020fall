@@ -49,11 +49,8 @@ Here is the final result:
  In this assignment, at the beginning, I can't find the address of my 1602lcd(driver board is PCF8574T). Even I used [scanner](hw3/scanner.ino), it showed that No I2C devices found. It drove me crazy and just killed meI a nice weekend. But I changed another lcd screen with same driver board PCF8574T, I sucessfully found the correct address is 0x27. Until now I still  can not figure out the reason.      
  
    
-   
 ## WEEK 4: Build A 2 Axis Machine With An Actuator
-
-
-
+This is a teamwork assignment, I work with [Ze Song(宋泽)](https://github.com/Kagamine-Rin/Fablab-Course-Shanghaitech).
 
 ## WEEK 5: 3D Scanning 
 1. Scan myself and get an obj file.
@@ -62,6 +59,14 @@ Here is the final result:
 Here is the final result, add the hat will cost too much material and time, therefore, I remove it.
    ![images](hw5/2.JPG)
    
+## Final Project : Special Alarm Clock(Remind and motivate you to take pills )
+   ![images](project/1.png)
+   ![imagess](project/1.JPG) 
+1. Show UTC +8 Standard Time and date precisely.
+2. Alarm clock function.
+3. Measure the temperature.
+4. Special Function : Remind and motivate me to take my medicine in time. You can  take away your coke only if you have already taken away your pills. Otherwise, it will alert and make a noise, and red led will be turned on!  
+
    
    
    
